@@ -1,0 +1,2 @@
+在每个节点上，运行如下命令，导入镜像：
+ctr -n k8s.io image import sig-storage.tar
